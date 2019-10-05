@@ -1,0 +1,100 @@
+{"playlist":[
+    {
+        "author": "Miyagi&Endspil",
+        "track": "When I Win",
+        "image": "miyagi.jpg",
+        "duration": "228705",
+        "file": "when_i_win.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Tamada",
+        "image": "miyagi.jpg",
+        "duration": "259346",
+        "file": "tamada.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Kriminal",
+        "image": "miyagi.jpg",
+        "duration": "236016",
+        "file": "kriminal.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Kajf",
+        "image": "miyagi.jpg",
+        "duration": "182520",
+        "file": "kajf.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Freedom",
+        "image": "miyagi.jpg",
+        "duration": "215092",
+        "file": "freedom.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Dlbm",
+        "image": "miyagi.jpg",
+        "duration": "153626",
+        "file": "dlbm.mp3"
+    },
+    {
+        "author": "Miyagi&Endspil",
+        "track": "Bada Bum",
+        "image": "miyagi.jpg",
+        "duration": "228705",
+        "file": "bada_bum.mp3"
+    },
+    {
+        "author": "The White Stripes",
+        "track": "Seven Nation Army (OST Battlefield 1",
+        "image": "bf1.jpg",
+        "duration": "323111",
+        "file": "bf1_soundtrack.mp3"
+    },
+    {
+        "author": "Sub Urban",
+        "track": "Cradles",
+        "image": "Cradles.jpg",
+        "duration": "209841",
+        "file": "Sub_Urban_Cradles.mp3"
+    },
+    {
+        "author": "Triplo Max",
+        "track": "Shadow",
+        "image": "Shadow.jpg",
+        "duration": "176875",
+        "file": "Triplo_Max_Shadow.mp3"
+    },
+    {
+        "author": "Billie Eilish",
+        "track": "Bad Guy",
+        "image": "Bad_Guy.jpg",
+        "duration": "194115",
+        "file": "Bad_Guy.mp3"
+    },
+    {
+        "author": "Halsey",
+        "track": "Nightmare",
+        "image": "Nightmare.jpg",
+        "duration": "232045",
+        "file": "Halsey_Nightmare.mp3"
+    },
+    {
+        "author": "Rob & Jack & Sanjin",
+        "track": "Shoot N Miss",
+        "image": "Shoot.jpg",
+        "duration": "148636",
+        "file": "Rob_Jack_Sanjin_Shoot_Miss.mp3"
+    },
+    {
+        "author": "DJ Khaled",
+        "track": "Wish Wish",
+        "image": "Wish.jpg",
+        "duration": "204251",
+        "file": "DJ_Khaled_Wish_Wish.mp3"
+    }
+]}

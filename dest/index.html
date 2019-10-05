@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <meta http-equiv='X-UA-Compatible' content='ie=edge'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:300,400&display=block' rel='stylesheet'>
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
+    <link rel='stylesheet' href='assets/icons.css'>
+    <link rel='stylesheet' href='assets/style.css'>
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon"/>
+    <script type='module' src='js/app.js'></script>
+    <title>Js Audioplayer MV</title>
+</head>
+<body>
+    <template id='tplTrack'>
+        <div class='item _track'>
+            <div class='item_play _item_play'>
+                <i class='fas fa-play'></i>
+                <i class='fas fa-pause'></i>
+            </div>
+            <div class='item_name _name'>Hello worldHello worldHello worldHello world</div>
+            <div class='item_duration _duration'>10:05</div>
+        </div>
+    </template>
+    <template id='tplPlayer'>
+        <div class='player _player'>
+            <audio src='' class='_audio'></audio>
+            <header class='player_header'></header>
+            <main class='player_main'>
+                <section class='track'>
+                    <img src='./data/img/placeholder.png' alt='track' class='track_image _trackImage'>
+                    <div class='track_name _trackName'>...</div>
+                    <div class='track_author _trackAuthor'>...</div>
+                </section>
+                <section class='playlist'>
+                    <div class='playlist_list _playlist'>
+                    </div>
+                </section>
+            </main>
+            <footer class='player_footer'>
+                <section class='controls'>
+                    <button class='control _actionPrev'>
+                        <i class='fas fa-step-backward'></i>
+                    </button>
+                    <button class='control control__play _actionPlayPause'>
+                        <i class='fas fa-play'></i>
+                        <i class='fas fa-pause'></i>
+                    </button>
+                    <button class='control _actionNext'>
+                        <i class='fas fa-step-forward'></i>
+                    </button>
+                    <div class='progress'>
+                        <div class='progress_value _progress'></div>
+                    </div>
+                    <button class='control control__mute _actionMute'>
+                        <i class='fas fa-volume-mute'></i>
+                    </button>
+                    <button class='control control__random _actionRandom'>
+                        <i class='fas fa-random'></i>
+                    </button>
+                    <button class='control control__repeat _actionRepeat'>
+                        <i class='fas fa-redo-alt'></i>
+                    </button>
+                </section>
+            </footer>
+        </div>
+    </template>
+</body>
+</html>
